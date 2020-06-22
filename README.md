@@ -1,1 +1,1 @@
-# homeAssistent
+# homeAssistant
